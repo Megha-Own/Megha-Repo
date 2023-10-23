@@ -1,2 +1,2 @@
 # Megha-Repo
-Creating new repository for a demo 
+Creating new repository for a demo project
